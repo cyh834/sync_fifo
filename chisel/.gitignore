@@ -1,0 +1,5 @@
+test_run_dir
+out
+.vscode
+.metals
+.bloop
